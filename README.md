@@ -2,8 +2,9 @@
 Исследование данных пользователей интернет-магазина
 
 ## Cтек:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
 
 ## Методы и подходы:
 + Когортный анализ
@@ -14,5 +15,5 @@
 + Сколько заказов в месяц в среднем не доставляется по разным причинам (вывести детализацию по причинам)?
 + По каждому товару определить, в какой день недели товар чаще всего покупается.
 + Сколько у каждого из пользователей в среднем покупок в неделю (по месяцам)?
-+ Провести когортный анализ пользователей, в период с января по декабрь выявить когорту с самым высоким retention на 3й месяц.
-+ Провести RFM-сегментацию пользователей
++ Проведен когортный анализ пользователей, в период с января по декабрь выявлена когорта с самым высоким retention на 3й месяц.
++ Проведена RFM-сегментация пользователей
