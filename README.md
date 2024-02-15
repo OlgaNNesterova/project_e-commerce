@@ -1,5 +1,5 @@
-## project_e-commerce
-Исследование данных пользователей интернет-магазина
+## Исследование данных пользователей интернет-магазина
+
 
 ## Cтек:
 <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
